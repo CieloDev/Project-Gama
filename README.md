@@ -19,8 +19,21 @@ dir: Project-Gama
 
 ---
 
+## Install Directions:
+To install this campaign either go to the [Steam Workshop](LinktoWorkshop) and subscribe to it, or download the latest release and paste files in
+```
+C:/user/%username%/AppData\LocalLow\Tactical Adventures\Solasta\UserContent
+```
+
+
 ## Planning:
 ---
+
+##### Checklist
+* [ ] Todo
+* [ ] Todo
+* [ ] TODO
+* [ ] TODO #2
 
 
 
