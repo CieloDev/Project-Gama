@@ -43,7 +43,7 @@ C:/user/%username%/AppData\LocalLow\Tactical Adventures\Solasta\UserContent
 
 
 
-
+###### Locations:
 
 |                |            |        |      |                 |                         |                  |               |
 |:--------------:|:----------:|--------|------|-----------------|-------------------------|:----------------:|:-------------:|
@@ -51,4 +51,17 @@ C:/user/%username%/AppData\LocalLow\Tactical Adventures\Solasta\UserContent
 
 ---
 
+###### Quests:
+
+
+###### Custom Monsters:
+
+
+###### NPCS:
+
+###### Misc:
+
+
+
+----
 
